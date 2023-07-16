@@ -1,0 +1,36 @@
+body{
+    background: #00fb65;
+    font-family:'Lobster', cursive;
+}
+
+.header_div{
+    background: white;
+    color:blue;
+}
+
+.header_div p{
+    font-family:'Franklin Gothic Medium';
+    color: black;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family:'Cambria';
+    margin-top: 20px;
+    width: 140px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    color: black
+    text-align: center;
+    font-size: 18px;
+    line-height:2;
+    text-shadow: 5px 5px 5px gray;
+}
